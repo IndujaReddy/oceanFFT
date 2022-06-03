@@ -1,0 +1,1990 @@
+---
+MainSourceFile:  MainSrcFiles_placehold
+Replacements:
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          2154
+    Length:          0
+    ReplacementText: "#include <CL/sycl.hpp>\n#include <dpct/dpct.hpp>\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          2230
+    Length:          0
+    ReplacementText: "\n#include <oneapi/mkl.hpp>\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          2257
+    Length:          26
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          2314
+    Length:          19
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          2389
+    Length:          28
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          3681
+    Length:          11
+    ReplacementText: 'std::shared_ptr<oneapi::mkl::dft::descriptor<oneapi::mkl::dft::precision::SINGLE, oneapi::mkl::dft::domain::COMPLEX>>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          3702
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          3746
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          3764
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          3808
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          3881
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          4666
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          4680
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          5035
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          5242
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          6224
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7327
+    Length:          0
+    ReplacementText: "\n  dpct::device_ext &dev_ct1 = dpct::get_current_device();\n  sycl::queue &q_ct1 = dev_ct1.default_queue();"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7443
+    Length:          14
+    ReplacementText: 'dpct::device_info'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7472
+    Length:          23
+    ReplacementText: 'dpct::dev_mgr::instance().get_device'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7496
+    Length:          13
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7513
+    Length:          0
+    ReplacementText: '.get_device_info(deviceProp)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7515
+    Length:          0
+    ReplacementText: "  /*\n  DPCT1005:1: The SYCL device version is different from CUDA Compute Compatibility. You may need to rewrite this code.\n  */\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7565
+    Length:          5
+    ReplacementText: 'get_major_version()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7583
+    Length:          5
+    ReplacementText: 'get_minor_version()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7615
+    Length:          52
+    ReplacementText: 'fftPlan = std::make_shared<oneapi::mkl::dft::descriptor<oneapi::mkl::dft::precision::SINGLE, oneapi::mkl::dft::domain::COMPLEX>>(std::vector<std::int64_t>{meshSize, meshSize})'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7743
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7754
+    Length:          40
+    ReplacementText: 'd_h0 = (sycl::float2 *)sycl::malloc_device(spectrumSize, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7806
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7860
+    Length:          10
+    ReplacementText: q_ct1.memcpy
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7895
+    Length:          24
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7920
+    Length:          0
+    ReplacementText: '.wait()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7971
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          7982
+    Length:          38
+    ReplacementText: 'd_ht = (sycl::float2 *)sycl::malloc_device(outputSize, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          8024
+    Length:          41
+    ReplacementText: 'd_slope = (sycl::float2 *)sycl::malloc_device(outputSize, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          8186
+    Length:          14
+    ReplacementText: 'sycl::free(d_ht, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          8204
+    Length:          17
+    ReplacementText: 'sycl::free(d_slope, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          8225
+    Length:          14
+    ReplacementText: 'sycl::free(d_h0, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          8241
+    Length:          25
+    ReplacementText: "  /*\n  DPCT1026:0: The call to cufftDestroy was removed because the function call is redundant in DPC++.\n  */\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          12154
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          12847
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          12870
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14215
+    Length:          0
+    ReplacementText: "\n  dpct::device_ext &dev_ct1 = dpct::get_current_device();\n  sycl::queue &q_ct1 = dev_ct1.default_queue();"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14222
+    Length:          65
+    ReplacementText: 'g_hptr = sycl::malloc_device<float>(meshSize * meshSize, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14295
+    Length:          66
+    ReplacementText: 'g_sptr = sycl::malloc_device<sycl::float2>(meshSize * meshSize, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14592
+    Length:          48
+    ReplacementText: "/*\n  DPCT1075:6: Migration of cuFFT calls may be incorrect and require review.\n  */\n  fftPlan->commit(q_ct1);\n  if ((void *)d_ht == (void *)d_ht) {\n  oneapi::mkl::dft::compute_backward(*fftPlan, (float*)d_ht);\n  } else {\n  oneapi::mkl::dft::compute_backward(*fftPlan, (float*)d_ht, (float*)d_ht)"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14641
+    Length:          0
+    ReplacementText: "\n  }"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14822
+    Length:          10
+    ReplacementText: q_ct1.memcpy
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14913
+    Length:          24
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          14938
+    Length:          0
+    ReplacementText: '.wait()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15402
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15418
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15463
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15477
+    Length:          10
+    ReplacementText: q_ct1.memcpy
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15562
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15569
+    Length:          24
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15594
+    Length:          0
+    ReplacementText: '.wait()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15646
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15933
+    Length:          16
+    ReplacementText: 'sycl::free(g_hptr, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Offset:          15953
+    Length:          16
+    ReplacementText: 'sycl::free(g_sptr, q_ct1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1643
+    Length:          19
+    ReplacementText: "#include <CL/sycl.hpp>\n#include <dpct/dpct.hpp>\n#include <oneapi/mkl.hpp>\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1662
+    Length:          28
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1825
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1836
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1853
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1874
+    Length:          11
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1890
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1898
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1905
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1916
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1957
+    Length:          11
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1969
+    Length:          9
+    ReplacementText: 'sycl::cos(arg)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1980
+    Length:          9
+    ReplacementText: 'sycl::sin(arg)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          1995
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2006
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2025
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2035
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2056
+    Length:          11
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2070
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2076
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2081
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2087
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2094
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2105
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2125
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2136
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2158
+    Length:          11
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2173
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2180
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2187
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2194
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2200
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2207
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2214
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2221
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2327
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2366
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2378
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2642
+    Length:          0
+    ReplacementText: ",\n                                       sycl::nd_item<3> item_ct1"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2665
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2678
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2691
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2723
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2736
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2749
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2975
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          2989
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3062
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3179
+    Length:          28
+    ReplacementText: 'sycl::sqrt(k.x() * k.x() + k.y() * k.y())'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3221
+    Length:          20
+    ReplacementText: 'sycl::sqrt(9.81f * k_len)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3293
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3325
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3642
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3698
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3766
+    Length:          0
+    ReplacementText: ",\n                                      sycl::nd_item<3> item_ct1"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3789
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3802
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3815
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3847
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3860
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          3873
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4029
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4104
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4162
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4232
+    Length:          0
+    ReplacementText: ",\n                                        sycl::nd_item<3> item_ct1"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4255
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4268
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4281
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4313
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4326
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4339
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4495
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4578
+    Length:          11
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4625
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4719
+    Length:          0
+    ReplacementText: ",\n                                     sycl::nd_item<3> item_ct1"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4742
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4755
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4768
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(2)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4800
+    Length:          10
+    ReplacementText: 'item_ct1.get_group(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4813
+    Length:          10
+    ReplacementText: 'item_ct1.get_local_range().get(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4826
+    Length:          11
+    ReplacementText: 'item_ct1.get_local_id(1)'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4876
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4891
+    Length:          11
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          4994
+    Length:          1
+    ReplacementText: 'x()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5029
+    Length:          1
+    ReplacementText: 'y()'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5157
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5171
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5466
+    Length:          4
+    ReplacementText: 'sycl::range<3>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5477
+    Length:          7
+    ReplacementText: 1, 8, 8
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5489
+    Length:          4
+    ReplacementText: 'sycl::range<3>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5499
+    Length:          80
+    ReplacementText: '1, cuda_iDivUp(out_height, block[1]), cuda_iDivUp(out_width, block[2])'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5582
+    Length:          0
+    ReplacementText: "  /*\n  DPCT1049:2: The workgroup size passed to the SYCL kernel may exceed the limit. To get the device limit, query info::device::max_work_group_size. Adjust the workgroup size if needed.\n  */\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5584
+    Length:          147
+    ReplacementText: "dpct::get_default_queue().parallel_for(\n    sycl::nd_range<3>(grid * block, block), \n    [=](sycl::nd_item<3> item_ct1) {\n      generateSpectrumKernel(d_h0, d_ht, in_width, out_width, out_height, animTime, patchSize, item_ct1);\n    });"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5731
+    Length:          1
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5798
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5953
+    Length:          0
+    ReplacementText: "\n  dpct::device_ext &dev_ct1 = dpct::get_current_device();\n  sycl::queue &q_ct1 = dev_ct1.default_queue();"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5956
+    Length:          4
+    ReplacementText: 'sycl::range<3>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5967
+    Length:          7
+    ReplacementText: 1, 8, 8
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5979
+    Length:          4
+    ReplacementText: 'sycl::range<3>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          5989
+    Length:          60
+    ReplacementText: '1, cuda_iDivUp(height, block[1]), cuda_iDivUp(width, block[2])'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6070
+    Length:          0
+    ReplacementText: "    /*\n    DPCT1049:3: The workgroup size passed to the SYCL kernel may exceed the limit. To get the device limit, query info::device::max_work_group_size. Adjust the workgroup size if needed.\n    */\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6074
+    Length:          66
+    ReplacementText: "q_ct1.parallel_for(\n      sycl::nd_range<3>(grid * block, block), \n      [=](sycl::nd_item<3> item_ct1) {\n        updateHeightmapKernel_y(d_heightMap, d_ht, width, item_ct1);\n      });"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6140
+    Length:          1
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6153
+    Length:          0
+    ReplacementText: "    /*\n    DPCT1049:4: The workgroup size passed to the SYCL kernel may exceed the limit. To get the device limit, query info::device::max_work_group_size. Adjust the workgroup size if needed.\n    */\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6157
+    Length:          64
+    ReplacementText: "q_ct1.parallel_for(\n      sycl::nd_range<3>(grid * block, block), \n      [=](sycl::nd_item<3> item_ct1) {\n        updateHeightmapKernel(d_heightMap, d_ht, width, item_ct1);\n      });"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6221
+    Length:          1
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6284
+    Length:          6
+    ReplacementText: 'sycl::float2'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6429
+    Length:          4
+    ReplacementText: 'sycl::range<3>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6440
+    Length:          7
+    ReplacementText: 1, 8, 8
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6452
+    Length:          4
+    ReplacementText: 'sycl::range<3>'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6463
+    Length:          60
+    ReplacementText: '1, cuda_iDivUp(height, block[1]), cuda_iDivUp(width, block[2])'
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6526
+    Length:          0
+    ReplacementText: "  /*\n  DPCT1049:5: The workgroup size passed to the SYCL kernel may exceed the limit. To get the device limit, query info::device::max_work_group_size. Adjust the workgroup size if needed.\n  */\n"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6528
+    Length:          69
+    ReplacementText: "dpct::get_default_queue().parallel_for(\n    sycl::nd_range<3>(grid2 * block, block), \n    [=](sycl::nd_item<3> item_ct1) {\n      calculateSlopeKernel(hptr, slopeOut, width, height, item_ct1);\n    });"
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: true
+  - FilePath:        '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Offset:          6597
+    Length:          1
+    ReplacementText: ''
+    ConstantFlag:    ''
+    ConstantOffset:  0
+    InitStr:         ''
+    NewHostVarName:  ''
+    BlockLevelFormatFlag: false
+MainSourceFilesDigest:
+  - MainSourceFile:  '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+    Digest:          0138e3798375e259c55037c06e7fb883
+  - MainSourceFile:  '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+    Digest:          1f1e4bad6d73badb12be00d738ca66a5
+DpctVersion:     2022.0.0
+MainHelperFileName: dpct
+USMLevel:        ''
+FeatureMap:
+  device.hpp:
+    dev_mgr:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+      FeatureName:     dev_mgr
+      SubFeatureMap:
+        dev_mgr_1:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     dev_mgr
+          SubFeatureMap:   {}
+        dev_mgr_2:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     dev_mgr
+          SubFeatureMap:   {}
+        dev_mgr_3:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     dev_mgr
+          SubFeatureMap:   {}
+        dev_mgr_4:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     dev_mgr
+          SubFeatureMap:   {}
+        dev_mgr_check_id:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     'dev_mgr::check_id'
+          SubFeatureMap:   {}
+        dev_mgr_current_device:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     'dev_mgr::current_device'
+          SubFeatureMap:   {}
+        dev_mgr_current_device_id:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     'dev_mgr::current_device_id'
+          SubFeatureMap:   {}
+        dev_mgr_get_device:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'dev_mgr::get_device'
+          SubFeatureMap:   {}
+    device_ext:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+      FeatureName:     device_ext
+      SubFeatureMap:
+        device_ext_1:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     device_ext
+          SubFeatureMap:   {}
+        device_ext_2:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     device_ext
+          SubFeatureMap:   {}
+        device_ext_default_queue:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+          FeatureName:     'device_ext::default_queue'
+          SubFeatureMap:   {}
+        device_ext_get_device_info_return_info:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_ext::get_device_info'
+          SubFeatureMap:   {}
+        device_ext_get_device_info_return_void:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_ext::get_device_info'
+          SubFeatureMap:   {}
+        device_ext_get_version:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_ext::get_version'
+          SubFeatureMap:   {}
+    device_info:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     device_info
+      SubFeatureMap:
+        device_info_1:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     device_info
+          SubFeatureMap:   {}
+        device_info_get_major_version:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::get_major_version'
+          SubFeatureMap:   {}
+        device_info_get_minor_version:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::get_minor_version'
+          SubFeatureMap:   {}
+        device_info_set_global_mem_size:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_global_mem_size'
+          SubFeatureMap:   {}
+        device_info_set_host_unified_memory:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_host_unified_memory'
+          SubFeatureMap:   {}
+        device_info_set_local_mem_size:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_local_mem_size'
+          SubFeatureMap:   {}
+        device_info_set_major_version:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_major_version'
+          SubFeatureMap:   {}
+        device_info_set_max_clock_frequency:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_clock_frequency'
+          SubFeatureMap:   {}
+        device_info_set_max_compute_units:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_compute_units'
+          SubFeatureMap:   {}
+        device_info_set_max_nd_range_size:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_nd_range_size'
+          SubFeatureMap:   {}
+        device_info_set_max_sub_group_size:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_sub_group_size'
+          SubFeatureMap:   {}
+        device_info_set_max_work_group_size:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_work_group_size'
+          SubFeatureMap:   {}
+        device_info_set_max_work_item_sizes:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_work_item_sizes'
+          SubFeatureMap:   {}
+        device_info_set_max_work_items_per_compute_unit:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_max_work_items_per_compute_unit'
+          SubFeatureMap:   {}
+        device_info_set_minor_version:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_minor_version'
+          SubFeatureMap:   {}
+        device_info_set_name:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'device_info::set_name'
+          SubFeatureMap:   {}
+    exception_handler:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+      FeatureName:     exception_handler
+      SubFeatureMap:   {}
+    get_current_device:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+      FeatureName:     get_current_device
+      SubFeatureMap:   {}
+    get_default_queue:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+      FeatureName:     get_default_queue
+      SubFeatureMap:   {}
+    get_tid:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT_kernel.cu'
+      FeatureName:     get_tid
+      SubFeatureMap:   {}
+  dpct.hpp:
+    non_local_include_dependency:
+      IsCalled:        true
+      CallerSrcFiles:
+        - ''
+      FeatureName:     ''
+      SubFeatureMap:   {}
+  memory.hpp:
+    dpct_memcpy:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    dpct_memcpy_2d:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    dpct_memcpy_2d_3d_pitch_detail:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    dpct_memcpy_2d_pitch_detail:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    dpct_memcpy_3d:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    dpct_memcpy_3d_detail:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    dpct_memcpy_detail:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     dpct_memcpy
+      SubFeatureMap:   {}
+    mem_mgr:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     mem_mgr
+      SubFeatureMap:
+        mem_mgr_1:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     mem_mgr
+          SubFeatureMap:   {}
+        mem_mgr_2:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     mem_mgr
+          SubFeatureMap:   {}
+        mem_mgr_get_map_iterator:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'mem_mgr::get_map_iterator'
+          SubFeatureMap:   {}
+        mem_mgr_is_device_ptr:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'mem_mgr::is_device_ptr'
+          SubFeatureMap:   {}
+        mem_mgr_translate_ptr:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'mem_mgr::translate_ptr'
+          SubFeatureMap:   {}
+    memcpy_direction:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     memcpy_direction
+      SubFeatureMap:   {}
+    pitched_data:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     pitched_data
+      SubFeatureMap:
+        pitched_data_get_data_ptr:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'pitched_data::get_data_ptr'
+          SubFeatureMap:   {}
+        pitched_data_get_pitch:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'pitched_data::get_pitch'
+          SubFeatureMap:   {}
+        pitched_data_get_y:
+          IsCalled:        true
+          CallerSrcFiles:
+            - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+          FeatureName:     'pitched_data::get_y'
+          SubFeatureMap:   {}
+    pitched_data_1:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     pitched_data
+      SubFeatureMap:   {}
+    typedef_buffer_t:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     buffer_t
+      SubFeatureMap:   {}
+    typedef_byte_t:
+      IsCalled:        true
+      CallerSrcFiles:
+        - '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT/oceanFFT.cpp'
+      FeatureName:     byte_t
+      SubFeatureMap:   {}
+CompileTargets:  {}
+OptionMap:
+  AsyncHandler:
+    Value:           'false'
+    Specified:       false
+  CommentsEnabled:
+    Value:           'false'
+    Specified:       false
+  CompilationsDir:
+    Value:           '/home/administrator/oceanFFT-workspace/cuda-samples/Samples/4_CUDA_Libraries/oceanFFT'
+    Specified:       true
+  CtadEnabled:
+    Value:           'false'
+    Specified:       false
+  CustomHelperFileName:
+    Value:           dpct
+    Specified:       false
+  ExperimentalFlag:
+    Value:           '0'
+    Specified:       false
+  ExplicitClNamespace:
+    Value:           'false'
+    Specified:       false
+  ExplicitNamespace:
+    Value:           '20'
+    Specified:       false
+  ExtensionFlag:
+    Value:           '4294967295'
+    Specified:       false
+  NDRangeDim:
+    Value:           '3'
+    Specified:       false
+  NoDRYPattern:
+    Value:           'false'
+    Specified:       false
+  OptimizeMigration:
+    Value:           'false'
+    Specified:       false
+  ProcessAll:
+    Value:           'false'
+    Specified:       false
+  SyclNamedLambda:
+    Value:           'false'
+    Specified:       false
+  UsmLevel:
+    Value:           '1'
+    Specified:       false
+...
